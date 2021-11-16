@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+My name is **Kevin Chang** and I am a Model Assurance Specialist, Modelling Analyst and Statistical Consultant specialised in R programming. I´m based in Auckland, New Zealand.
+
+- 🔭 I’m currently working on Model validation in the Banking space.
+- 🌱 I’m currently learning SQL and Shiny Dashboard. 
+- 🤔 I’m looking for help with soft skills. 
+- 💬 Ask me about anything in R programming with automated reporting using Rmarkdown and interactive dashboard developing using R Shiny.
+- 😄 Pronouns: He/him/his
+
+### Find me elsewhere 🌎
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-ct-chang/)](https://www.linkedin.com/in/kevin-ct-chang/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kevin_ct_chang)](https://twitter.com/kevin_ct_chang)
+
+
+**[kevinchang.nz](https://www.kevinchang.nz)**
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=kcha193)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kcha193&hide=html,jupyter%20notebook,JavaScript,SCSS,Less&layout=compact&langs_count=10)
+
+
 <!--
 **kcha193/kcha193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
