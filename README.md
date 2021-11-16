@@ -14,7 +14,7 @@ My name is **[Kevin Chang](https://www.kevinchang.nz)** and I am a Model Assuran
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kcha193)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kcha193&hide=jupyter%20notebook,SCSS,Less&layout=compact&langs_count=10)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kcha193&hide=html,jupyter%20notebook,JavaScript,SCSS,Less&layout=compact&langs_count=10)
 
 
 <!--
