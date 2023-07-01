@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is **[Kevin Chang](https://www.kevinchang.nz)** and I am a Data Scientist, Model Assurance Specialist, Modelling Analyst and Statistical Consultant, specialised in **R programming**. 
+My name is **[Kevin Chang](https://www.kevinchang.nz)**, and I am a Data Scientist, Model Assurance Specialist, Modelling Analyst and Statistical Consultant, specialising in **R programming**. 
 
-- 🔭 I’m currently working on **Model Validation** in the Banking industry.
+- 🔭 I’m currently working as a **Data Scientist** in the Banking industry.
 - 🌱 I’m currently learning **Python**, **Structured Query Language (SQL)** and **interactive Shiny Dashboard**. 
-- 🤔 I’m looking for improving my soft skills. 
+- 🤔 I’m looking to improve my soft skills. 
 - 💬 Ask me about anything in **R programming** with automated reporting using **Rmarkdown** and interactive dashboard developing using **R Shiny**.
 - 😄 Pronouns: He/him/his.
 - 🇳🇿 I´m based in Auckland, New Zealand, originally from Taiwan. 
