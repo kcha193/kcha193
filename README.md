@@ -6,7 +6,6 @@ My name is **[Kevin Chang](https://www.kevinchang.nz)**, and I am a Data Scienti
 - 🌱 I’m currently learning **Python**, **Structured Query Language (SQL)** and **interactive Shiny Dashboard**. 
 - 🤔 I’m looking to improve my soft skills. 
 - 💬 Ask me about anything in **R programming** with automated reporting using **Rmarkdown** and interactive dashboard developing using **R Shiny**.
-- 😄 Pronouns: He/him/his.
 - 🇳🇿 I´m based in Auckland, New Zealand, originally from Taiwan. 
 
 ### Find me elsewhere 🌎
