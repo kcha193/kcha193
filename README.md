@@ -11,12 +11,10 @@ My name is **[Kevin Chang](https://www.kevinchang.nz)**, and I am a Data Scienti
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-ct-chang/)](https://www.linkedin.com/in/kevin-ct-chang/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kevin_ct_chang)](https://twitter.com/kevin_ct_chang)
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-ct-chang/)](https://www.linkedin.com/in/kevin-ct-chang/)  
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kcha193&show_icons=true&bg_color=00000000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcha193&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!--
