@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **[Kevin Chang](https://www.kevinchang.nz)**, and I am a Data Scientist, Model Assurance Specialist, Modelling Analyst and Statistical Consultant, specialising in **R programming**. 
+My name is **[Kevin Chang](https://www.kevinchang.nz)**, and I am a Data Scientist specialising in **R programming**. 
 
 - 🔭 I’m currently working as a **Data Scientist** in the Banking industry.
 - 🌱 I’m currently learning **Python**, **Structured Query Language (SQL)** and **interactive Shiny Dashboard**. 
@@ -16,6 +16,7 @@ My name is **[Kevin Chang](https://www.kevinchang.nz)**, and I am a Data Scienti
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kcha193&show_icons=true&bg_color=00000000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcha193&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kcha193)](https://git.io/streak-stats)
 
 <!--
 **kcha193/kcha193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
