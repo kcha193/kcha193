@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi%20there!%20I'm%20Kevin%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Senior%20Data%20Scientist%20%7C%20Banking%20Analytics%20%7C%20ML%20%26%20AI&descAlignY=58&descSize=18" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4FACFE&center=true&vCenter=true&width=600&lines=Senior+Data+Scientist+%40+ASB+Bank;Python+%7C+R+%7C+SQL+(Snowflake);Machine+Learning+%26+AI+Explorer;Banking+Analytics+%26+Pricing+Models;Based+in+Auckland%2C+New+Zealand+%F0%9F%87%B3%F0%9F%87%BF)](https://git.io/typing-svg)
 
